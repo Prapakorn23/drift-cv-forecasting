@@ -1,11 +1,4 @@
-# 🎓 Capstone Projects: Time Series Drift Detection
-
-This repository contains my **capstone projects** for my Bachelor's degree in Applied Statistics (Data Science).  
-It includes two major works focusing on **Time Series Forecasting with Drift Detection** and **HR Analytics for Employee Promotion Prediction**.
-
----
-
-## 📌 Project 1: Adaptive Error Detection in Time Series Forecasting
+## 📌 Adaptive Error Detection in Time Series Forecasting
 **Goal:**  
 Develop a method to detect and adapt to **data drift** and **error deviations** in **Time Series Forecasting** to improve prediction performance.  
 
