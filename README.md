@@ -1,4 +1,4 @@
-# 🎓 Capstone Projects: Time Series Drift Detection & HR Analytics
+# 🎓 Capstone Projects: Time Series Drift Detection
 
 This repository contains my **capstone projects** for my Bachelor's degree in Applied Statistics (Data Science).  
 It includes two major works focusing on **Time Series Forecasting with Drift Detection** and **HR Analytics for Employee Promotion Prediction**.
